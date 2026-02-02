@@ -1,5 +1,16 @@
 https://google.com/
-https://top10websites.lol/
+
+https://top10websites.lol
+
+https://discord.com
+
+tiktok: https://www.tiktok.com/@thesupersupersigma?lang=en
+discord: thesupersupersigma
+youtube: https://www.youtube.com/@thesupersupersigma
+
+![Visit My Website]([image_URL_or_relative_path](https://top10websites.lol/yunomiles.png))
+
+If any of my repositories are public message me immediately on discord
 
 <!--
 **TheSuperSuperSigma/thesupersupersigma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
