@@ -32,6 +32,10 @@ tiktok: https://www.tiktok.com/@thesupersupersigma
 
 youtube: https://www.youtube.com/@thesupersupersigma
 
+# Pls Donate To Keep The website Up🙏 #
+## Website Expires on 2/22/2026 ##
+https://cash.app/$thesupersupersigma
+
 If any of my repositories (except for this one) are public message me immediately on discord
 
 <!--
