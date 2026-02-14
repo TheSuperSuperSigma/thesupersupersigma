@@ -1,16 +1,28 @@
 https://google.com/
 
+[![google logo](https://commons.wikimedia.org/wiki/File:Google_Favicon_2025.svg)](https://google.com)
+
 https://top10websites.lol
+
+[![top10websites facivon.ico](https://top10websites.lol/favicon.ico)](https://top10websites.lol)
 
 https://discord.com
 
+discord username: thesupersupersigma
+
+[![discord logo](https://commons.wikimedia.org/wiki/File:Discord-logo-icon.jpg)](https://discord.com)
+
 tiktok: https://www.tiktok.com/@thesupersupersigma?lang=en
+
+[![Alt text for the image](URL of the image)](URL of the destination website)
 
 https://instagram.com
 
-discord: thesupersupersigma
+[![Alt text for the image](URL of the image)](URL of the destination website)
 
 youtube: https://www.youtube.com/@thesupersupersigma
+
+[![Alt text for the image](URL of the image)](URL of the destination website)
 
 ![Visit My Website](https://top10websites.lol/yunomiles.png)
 
