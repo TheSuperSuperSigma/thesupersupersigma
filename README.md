@@ -18,8 +18,6 @@
 
 </div>
 
-## Tech Stack
-
 **Languages**
 
 <img src="https://skillicons.dev/icons?i=html,css,javascript,bash" alt="languages" /> do not flame me bru
